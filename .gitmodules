@@ -1,0 +1,3 @@
+[submodule "sliic"]
+	path = sliic
+	url = git@github.com:arautu/sliic.git
